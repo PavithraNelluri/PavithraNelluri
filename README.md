@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I love reading non-fiction books.
 -->
-<img alt="my stats" align="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=PavithraNelluri"/>
+<img alt="my stats"  src="https://github-readme-stats.vercel.app/api?username=PavithraNelluri"/>
 
-<img alt="top langs" align="left" width="46%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PavithraNelluri&layout=compact"/>
+<img alt="top langs"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=PavithraNelluri&layout=compact"/>
 
 # Top Technologies
 ![Static Badge](https://img.shields.io/badge/python-green?logo=python&labelColor=white)
