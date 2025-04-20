@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on ATS Project.
 - 🌱 I’m currently learning DSA.
 - 👯 I’m looking to collaborate on DSA based Open Source Projects.
-- 🤔 I’m looking for help with ...
+- 🤔 I’m looking for help with ..
 - 💬 Ask me about ...
 - 📫 How to reach me:Email ID: pavithranelluri419@gmail.com
 - 😄 Pronouns: She/Her
