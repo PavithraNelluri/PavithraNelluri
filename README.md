@@ -1,7 +1,7 @@
 ## Hi there 👋
-- 🔭 I’m currently working on ATS Project.
+- 🔭 I’m currently working on ATS based Project.
 - 🌱 I’m currently learning DSA.
-- 👯 I’m looking to collaborate on DSA based Open Source Projects.
+- 👯 I’m looking to collaborate on Open Source Projects.
 - 📫 How to reach me:pavithranelluri419@gmail.com
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I love reading non-fiction books.
